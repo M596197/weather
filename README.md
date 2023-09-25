@@ -1,3 +1,7 @@
+Simple weather app where you can search for cities and get weather foerast
+
+![](public/Skjermbilde%202023-09-25%20kl.%2017.31.06.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
