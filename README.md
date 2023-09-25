@@ -2,7 +2,9 @@ Simple weather app where you can search for cities and get weather foerast
 
 ![](public/Skjermbilde%202023-09-25%20kl.%2017.31.06.png)
 
-![](../../../Desktop/Skjermbilde%202023-09-25%20kl.%2017.31.06.png)
+Search for city
+
+![](public/Skjermbilde%202023-09-25%20kl.%2017.31.24.png)
 
 # Getting Started with Create React App
 
